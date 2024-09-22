@@ -9,6 +9,8 @@
     git
     vim
     eza
+
+    gpg
   ];
 
   # git 相关配置
